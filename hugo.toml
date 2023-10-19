@@ -1,0 +1,5 @@
+baseURL = 'https://v4vmusic.com/'
+languageCode = 'en-us'
+title = 'Value for Value Music'
+theme = 'hugo-mag'
+
