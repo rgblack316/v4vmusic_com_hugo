@@ -7,6 +7,7 @@ categories:
   - 'Tutorials'
 tags:
   - ''
+menu: 'main'
 toc: true
 thumbnail: ''
 ---
@@ -17,7 +18,7 @@ This site uses the [Hugo](https://gohugo.io/documentation/) content management s
 
 Fork the github repo [https://github.com/v4vmusic/v4vmusic_com_hugo](https://github.com/v4vmusic/v4vmusic_com_hugo)
 
-Then clone your forked repo to your machine
+Then clone your forked repo to your machine.
 
 `git clone git@github.com:<YOUR-GITHUB-ACCOUNT>/v4vmusic_com_hugo.git`
 
@@ -31,7 +32,7 @@ Checkout your new branch
 
 
 ## Write your Article
-Now that you have a working local git repo you can write your article using the [Markdown](https://www.markdownguide.org/) format. I recommend using the Obsidian editor as it's freaking awesome!
+Now that you have a working local git repo you can write your article using the [Markdown](https://www.markdownguide.org/) format. I recommend using the [Obsidian](https://obsidian.md/) editor as it's freaking awesome!
 
 make a copy of the file `v4vmusic_com_hugo/submitted/template.md`
 and rename it to `v4vmusic_com_hugo/submitted/title-of-your-article.md`
@@ -43,7 +44,9 @@ If you're using Obsidian there are a few extra steps but in my opinion well wort
 Open `v4vmusic_com_hugo/submitted/title-of-your-article.md` in your favorite text editor.
 
 Select everything `Ctrl-A` 
+
 Copy everything `Ctrl-C`
+
 then in Hugo create a new note and paste into it.
 
 Start writing away, when you are finished again copy everything from Obsidian and past into your favorite text editor.
@@ -56,7 +59,9 @@ Make sure to save the file as `title-of-your-article.md` in the `v4vmusic_com_hu
 On the command line execute the following command
 
 `git add .`
+
 `git commit -m 'Submitting my article title-of-your-article.md'`
+
 `git push`
 
 ## Submit a Pull Request
