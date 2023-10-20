@@ -4,17 +4,14 @@ author:
 date: 2023-10-19T16:04:40-07:00
 categories:
   - 'v4vMusicSite'
-  - 'tutorial'
+  - 'Tutorials'
 tags:
   - ''
 toc: true
 thumbnail: ''
-draft: true
 ---
 
 This site uses the [Hugo](https://gohugo.io/documentation/) content management system and is hosted on [github](https://github.com/v4vmusic/v4vmusic_com_hugo).
-
-There are 2, maybe 3 ways you can get your content uploaded here.
 
 ## Clone the Repo
 
