@@ -46,13 +46,13 @@ Then since he already had a ton of older hit songs recorded he decided to put th
 
 So now Bob only has to create 12 feeds instead of 30+. Not only does this make life easier for him but his fans can now find their music more easily because it's nicely organized.
 
-Bob creates
+Bob creates:
 - 10 feeds, one for each album
 - 1 feed for their Greatest Hits
 - 1 feed for newly released singles
 
 
-Jane is a huge fan of the The Biloxi Barn Burners and she subscribes to their singles feed in her favorite [modern podcast app](https://podcastindex.org/apps?appTypes=app&elements=Value%2CBoostagrams)
+Jane is a huge fan of The Biloxi Barn Burners and she subscribes to their singles feed in her favorite [modern podcast app](https://podcastindex.org/apps?appTypes=app&elements=Value%2CBoostagrams)
 
 This morning on her way to work she got a new notification on her phone that a new single from The Biloxi Barn Burners just was released. Excited she listens to the new song on her commute to work. She loved the song so much that she sent them a boostagram of 20,000 satoshis saying "I was having a bad day until you new song dropped into my phone, now everything is great. I really love you guys keep putting out great tunes 😍"
 
