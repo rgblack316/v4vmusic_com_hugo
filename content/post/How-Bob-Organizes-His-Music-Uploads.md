@@ -7,7 +7,7 @@ categories:
 tags:
   - organization
 toc: true
-thumbnail: /img/Bob-keyboard-01-500.jpg
+thumbnail: /img/bbb-discover/Bob-keyboard-01-500.jpg
 ---
 ![](/img/Bob-keyboard-01-500.jpg)
 

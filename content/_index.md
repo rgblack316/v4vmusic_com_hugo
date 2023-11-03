@@ -1,3 +1,3 @@
 ---
-title: Hugo XMag
+title: Value for Value Music
 ---

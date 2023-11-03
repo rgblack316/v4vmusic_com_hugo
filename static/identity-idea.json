@@ -1,0 +1,81 @@
+{
+    "title": "An idea for online identity and for automatic split payments",
+    "version": "0.0.1",
+    "schema": "https://example.com/identity.schema.json",
+    "personal": {
+        "fname": "Kolomona",
+        "lname": "Myer",
+        "email": "kolomona@kolomona.com",
+        "cellular": "253-555-1212",
+        "pubkey": "npub15z2javq62eh2xpms7yew0uzqsk4dr7t3q3dq4903uuxdyw2ca3kstx6q95"
+    },
+    "paymentMethods": {
+        "PayPal": "kolomona@kolomona.com",
+        "cashApp": "",
+        "BTC": "bc1qht9ppr8g5p0yn4akz0nzxndxf2gfe4z79590ev",
+        "bitcoinLightning": {
+            "lnURL": "kolomona@getalby.com",
+            "keysend": {
+                "nodeAddress": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+                "customData": [
+                    {
+                        "customKey": "696969",
+                        "customValue": "912ezE5oAMbMPuxCiHq8"
+                    }
+                ]
+            }
+        }
+    },
+    "paymentBlocks": [
+        {
+            "id": "UniqueID",
+            "name": "Podcast Infrascructure",
+            "remarks": "This is the block that podcaster x pays to when I do work for his podcast. I split his payments to these recipients as thanks for creating the tooling I use",
+            "recipients": [
+                {
+                    "name": "Kolomona Myer",
+                    "remarks": "Me",
+                    "pubkey": "npub15z2javq62eh2xpms7yew0uzqsk4dr7t3q3dq4903uuxdyw2ca3kstx6q95",
+                    "split": 90
+                },
+                {
+                    "name": "Dave Jones",
+                    "remarks": "podcastindex.org",
+                    "pubkey": "npub1pvdw7mm7k20t9dn9gful8n5xua5yv8rmgd9wul88qq5dxj80lpxqd39r3u",
+                    "split": 5
+                },
+                {
+                    "name": "Steven Bell",
+                    "remarks": "For use of the Spit Kit",
+                    "pubkey": "npub1mltfm0xv4dnp8pm3j2l9j0tv7m0stpkmrff0m0924au2hgwztwyqj9pdyu",
+                    "split": 5
+                }
+            ]
+        },
+        {
+            "id": "UniqueID",
+            "name": "Podcast Infrascructure",
+            "remarks": "This is the block that customers pay to me when they buy a sticker from my website",
+            "recipients": [
+                {
+                    "name": "Kolomona Myer",
+                    "remarks": "Me",
+                    "pubkey": "npub15z2javq62eh2xpms7yew0uzqsk4dr7t3q3dq4903uuxdyw2ca3kstx6q95",
+                    "split": 90
+                },
+                {
+                    "name": "Jane Doe",
+                    "remarks": "For her artwork",
+                    "pubkey": "npub1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+                    "split": 5
+                },
+                {
+                    "name": "John Doe",
+                    "remarks": "For use of his sticker printer",
+                    "pubkey": "npub1bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+                    "split": 5
+                }
+            ]
+        }
+    ]
+}
