@@ -1,15 +1,18 @@
 ---
-title: 'How to Create a Podcast RSS Feed Using The Split Kit and Sovereign Feeds'
-author: 'RAndy Black'
+title: How to Create a Podcast RSS Feed Using The Split Kit and Sovereign Feeds
+author: Randy Black
 date: 'Do not worry about this as it will be generated later'
 categories:
-  - 'self-hosting'
-  - '
+  - Tutorials
 tags:
-  - 'Change-Me'
+  - self-hosting
+  - The Split Kit
+  - Sovereign Feeds
+  - CDN
+  - 
 toc: true
 thumbnail: 'Change-Me URL must reside elsewhere on the internet as v4vmusic is not hosting images right now'
-draft: true
+draft: false
 ---
 # How to Create a Podcast RSS Feed Using The Split Kit and Sovereign Feeds
 
@@ -180,6 +183,6 @@ Congratulations! You’ve just set up a **self-hosted podcast RSS feed** using *
 
 This method gives you full control and ensures your podcast remains independent.
 --------------------------------------------
-Author info - Randy Black - randy@randallblack.com
+Author info - Randy Black is an educator, technology specialist, and podcaster from Milton, WV. You can reach him via email at [randy@randallblack.com](mailto:randy@randallblack.com).
 --------------------------------------------
 "YOUR-NAME": "A brief description of yourself. May include [markdown formatted urls](https://your-website.com)"
