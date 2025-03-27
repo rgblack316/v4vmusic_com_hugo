@@ -1,7 +1,7 @@
 ---
 title: How to Create a Podcast RSS Feed Using The Split Kit and Sovereign Feeds
 author: Randy Black
-date: 'Do not worry about this as it will be generated later'
+date: 2025-03-27T16:51:41.204Z
 categories:
   - Tutorials
 tags:
@@ -181,7 +181,3 @@ Congratulations! You’ve just set up a **self-hosted podcast RSS feed** using *
 - You can **distribute your podcast freely** across platforms
 
 This method gives you full control and ensures your podcast remains independent.
---------------------------------------------
-Author info - 
---------------------------------------------
-"Randy Black": "Randy Black is an educator, technology specialist, and podcaster from Milton, WV. You can reach him via email at [randy@randallblack.com](mailto:randy@randallblack.com) and view his website at [https://randallblack.com](https://randallblack.com)."
