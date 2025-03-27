@@ -183,6 +183,6 @@ Congratulations! You’ve just set up a **self-hosted podcast RSS feed** using *
 
 This method gives you full control and ensures your podcast remains independent.
 --------------------------------------------
-Author info - Randy Black is an educator, technology specialist, and podcaster from Milton, WV. You can reach him via email at [randy@randallblack.com](mailto:randy@randallblack.com).
+Author info - 
 --------------------------------------------
-"YOUR-NAME": "A brief description of yourself. May include [markdown formatted urls](https://your-website.com)"
+"Randy Black": "Randy Black is an educator, technology specialist, and podcaster from Milton, WV. You can reach him via email at [randy@randallblack.com](mailto:randy@randallblack.com) and view his website at [https://randallblack.com](https://randallblack.com)."
