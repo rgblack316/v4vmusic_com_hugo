@@ -9,11 +9,10 @@ tags:
   - The Split Kit
   - Sovereign Feeds
   - CDN
-  - 
 toc: true
-thumbnail: 'Change-Me URL must reside elsewhere on the internet as v4vmusic is not hosting images right now'
-draft: false
 ---
+This article was published orginially at [https://randallblack.com/self-hosted-rss/](https://randallblack.com/self-hosted-rss/) and is shared here by it's author.
+
 # How to Create a Podcast RSS Feed Using The Split Kit and Sovereign Feeds
 
 ## Self-Hosting Your Podcast with Bunny.net for Maximum Control
