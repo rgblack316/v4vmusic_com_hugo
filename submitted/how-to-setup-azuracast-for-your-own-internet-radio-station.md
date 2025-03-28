@@ -1,6 +1,6 @@
 ---
-title: 'How to Set Up Azuracast for Your Own Internet Radio Station'
-author: 'Randy Black'
+title: How to Set Up Azuracast for Your Own Internet Radio Station
+author: Randy Black
 date: 'Do not worry about this as it will be generated later'
 categories:
   - Tutorials
@@ -10,6 +10,10 @@ tags:
   - Internet Radio
 toc: true
 ---
+This article was published orginially at [https://randallblack.com/azuracast/](https://randallblack.com/azuracast/) and is shared here by it's author.
+
+# How to Set Up Azuracast for Your Own Internet Radio Station
+
 Azuracast is a powerful, open-source web radio management software that allows you to easily stream both live and pre-recorded audio. Whether you're looking to host your own internet radio station or use it for podcasting, Azuracast makes the process straightforward. In this post, we’ll walk you through how to set up Azuracast on a server and get your station up and running.
 
 ## Prerequisites
