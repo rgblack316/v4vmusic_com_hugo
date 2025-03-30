@@ -1,7 +1,7 @@
 ---
 title: How to Set Up Azuracast for Your Own Internet Radio Station
 author: Randy Black
-date: 'Do not worry about this as it will be generated later'
+date: 2025-03-30T12:37:58.451Z
 categories:
   - Tutorials
 tags:
@@ -127,8 +127,3 @@ Regular backups of your Azuracast data are recommended. You can create backups u
 Azuracast is a versatile platform for managing your own internet radio station. Whether you’re streaming music, podcasts, or live events, its features are robust and easy to use. By following the steps in this guide, you’ll have your station up and running in no time!
 
 If you run into any issues or need help with any part of the setup, feel free to reach out for assistance.
---------------------------------------------
-Author info - Note this only needs to be submitted once as it gets saved on the site
-You may submit again if you need to change your info
---------------------------------------------
-"YOUR-NAME": "A brief description of yourself. May include [markdown formatted urls](https://your-website.com)"
