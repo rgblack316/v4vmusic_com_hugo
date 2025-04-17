@@ -36,9 +36,7 @@ Before installing Icecast, update your system.
 
 Run the following command:
 
-\```bash
-sudo apt update && sudo apt upgrade -y
-\```
+`bash sudo apt update && sudo apt upgrade -y`
 
 ---
 
@@ -46,9 +44,7 @@ sudo apt update && sudo apt upgrade -y
 
 To install Icecast, run:
 
-\```bash
-sudo apt install icecast2
-\```
+`bash sudo apt install icecast2`
 
 During installation, you’ll be asked if Icecast should start automatically. Select **Yes**.
 
@@ -56,17 +52,13 @@ During installation, you’ll be asked if Icecast should start automatically. Se
 
 Ensure Icecast starts on reboot:
 
-\```bash
-sudo systemctl enable icecast2
-\```
+`bash sudo systemctl enable icecast2`
 
 ### Verify Installation
 
 Check if Icecast is installed:
 
-\```bash
-icecast2 -v
-\```
+`bash icecast2 -v`
 
 ---
 
@@ -74,17 +66,13 @@ icecast2 -v
 
 The main configuration file for Icecast is:
 
-\```bash
-/etc/icecast2/icecast.xml
-\```
+`bash /etc/icecast2/icecast.xml`
 
 ### Editing the Configuration File
 
 Open it in a text editor:
 
-\```bash
-sudo nano /etc/icecast2/icecast.xml
-\```
+`bash sudo nano /etc/icecast2/icecast.xml`
 
 ### Key Settings
 
@@ -119,15 +107,11 @@ Save and exit the editor.
 
 ### Restart Icecast
 
-\```bash
-sudo systemctl restart icecast2
-\```
+`bash sudo systemctl restart icecast2`
 
 ### Check Status
 
-\```bash
-sudo systemctl status icecast2
-\```
+`bash sudo systemctl status icecast2`
 
 ### Access the Icecast Web Interface
 
@@ -171,14 +155,9 @@ Listeners can access your stream via:
 
 - **VLC Player:** Open `http://your-server-ip:8000/stream`  
 - **Web Browser:** Enter the same URL.  
-- **Embedded Player:** Use an `<audio>` tag:
+- **Embedded Player:** Use an `<audio>` tag: 
 
-\```html
-<audio controls>
-    <source src="http://your-server-ip:8000/stream" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
-\```
+  `html <audio controls> <source src="http://your-server-ip:8000/stream" type="audio/mpeg"> Your browser does not support the audio element. </audio>`
 
 ---
 
@@ -188,9 +167,7 @@ Listeners can access your stream via:
 
 Allow Icecast’s port:
 
-\```bash
-sudo ufw allow 8000/tcp
-\```
+`bash sudo ufw allow 8000/tcp`
 
 ### Change Default Passwords
 
@@ -208,9 +185,7 @@ For secure streaming, set up a reverse proxy with Nginx and Let’s Encrypt.
 
 If issues arise, check logs:
 
-\```bash
-cat /var/log/icecast2/error.log
-\```
+`bash cat /var/log/icecast2/error.log`
 
 ### Common Issues and Fixes
 
