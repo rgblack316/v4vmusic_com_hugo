@@ -131,9 +131,7 @@ sudo systemctl status icecast2
 
 ### Access the Icecast Web Interface
 
-Visit:
-
-[http://your-server-ip:8000](http://your-server-ip:8000)
+Visit: [http://your-server-ip:8000](http://your-server-ip:8000)
 
 Log in with your admin credentials.
 
