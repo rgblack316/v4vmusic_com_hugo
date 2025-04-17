@@ -36,9 +36,9 @@ Before installing Icecast, update your system.
 
 Run the following command:
 
-\```bash
+\`bash
 sudo apt update && sudo apt upgrade -y
-\```
+\`
 
 ---
 
